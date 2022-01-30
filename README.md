@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Eren from Turkey. I am currently student at Istanbul Technical University, majoring Industrial Engineering. I enjoy all kinds of optimization problems in general.
 <!--
 **MrKOTAR/MrKOTAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
