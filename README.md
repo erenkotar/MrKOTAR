@@ -4,7 +4,7 @@
   - **erenkotar@hotmail.com**
   - **kotar19@itu.edu.tr**
 
-- 🔭 I’m currently working on my thesis about **Portfolio Optimization**
+- 🔭 I’m currently working on my thesis about **Portfolio Optimization with Reinforcement Learning**
 - 🌱 I’m currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
