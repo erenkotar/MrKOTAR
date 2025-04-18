@@ -1,11 +1,10 @@
-<h1 align="center"> Hi 👋, I'm Eren Kotar</h1>
+# Hi, I'm Eren 👋
+
+- 🧠 Data Scientist @ Trendyol  
+- 💬 Working on RecSys & NLP  
 
 * 📫 **How to reach me:** 
-  - **erenkotar@hotmail.com**
   - **kotar19@itu.edu.tr**
-
-- 🔭 I’m currently working on my thesis about **Portfolio Optimization with Reinforcement Learning**
-- 🌱 I’m currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 
