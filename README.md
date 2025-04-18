@@ -1,10 +1,11 @@
 # Hi, I'm Eren 👋
 
+- 🎓 MSc Student in Computer Engineering @ Boğaziçi University  
 - 🧠 Data Scientist @ Trendyol  
-- 💬 Working on RecSys & NLP  
-
+- 💡 Passionate about Recommendation Systems, NLP, and RL  
+  
 * 📫 **How to reach me:** 
-  - **kotar19@itu.edu.tr**
+  - **erenkotar@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
